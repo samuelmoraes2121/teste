@@ -6,8 +6,13 @@
 <body>
 <h1>Tentando aprender a criar pagina</h1>
 <p> tô me lascando porque sou noob</p>
+
+
 <img src="https://images.app.goo.gl/5budJipYTUnJEBhWA">
 
+<p> Rodrigo mais gay de todos</p>
+
+<img src="C:\Users\lab02aluno\Downloads">
 
 
 
